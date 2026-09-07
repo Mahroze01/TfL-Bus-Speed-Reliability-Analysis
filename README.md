@@ -1,3 +1,14 @@
+### 📊 Project Highlights
+
+| | |
+|---|---|
+| **Tools** | Power BI · Power Query · DAX · Excel |
+| **Data** | TfL Bus Speed Data (2022–2026) |
+| **Focus** | Route performance · Speed trends · Speed variability |
+| **Overall Average Speed** | **10.3 mph** |
+| **Key Finding** | Route 399 showed the highest speed variation among the routes analysed |
+
+
 # TfL Bus Speed & Reliability Analysis
 
 ## Project Overview
