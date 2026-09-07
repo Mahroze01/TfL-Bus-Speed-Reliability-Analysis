@@ -156,35 +156,5 @@ Speed Range =
 [Maximum Bus Speed] - [Minimum Bus Speed]
 
 
-### Limitations
-Bus speed is not the same as formal reliability
-
-The dataset primarily measures bus speed rather than TfL's formal reliability measures.
-
-Therefore, this project should be interpreted as a bus speed and reliability analysis, rather than a direct measurement of formal bus service reliability.
-
-Causes cannot be established
-
-The available data identifies patterns in bus speeds but does not provide enough information to determine why a particular route or period performs differently.
-
-The findings should therefore be viewed as areas for further investigation rather than causal conclusions.
-
-Additional data would improve the analysis
-
-Integrating congestion, roadworks, passenger demand, journey times and operational data could provide a more comprehensive understanding of bus performance.
-
-## Future Improvements
-
-Future versions of this project could incorporate additional TfL datasets to investigate the factors driving changes in bus performance.
-
-Potential extensions include:
-
-Analysing bus speeds against traffic congestion
-Identifying the impact of roadworks
-Analysing passenger demand against speed
-Comparing speed during peak and off-peak periods
-Adding geographical analysis by London borough
-Developing route-level performance scores
-Building automated data refresh pipelines
 
 
